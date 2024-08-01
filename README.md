@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I want to become a Blockchain Developer.
+I'm learning C++ and i started learning Solidity for creating my own Smart-Contract
 <!--
 **dduuh/dduuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
