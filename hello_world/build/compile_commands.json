@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/007/Downloads/Rust_Project/hello_world/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -I/usr/include -g -o CMakeFiles\\HELLO_WORLD.dir\\main.cpp.obj -c C:\\Users\\007\\Downloads\\Rust_Project\\hello_world\\main.cpp",
+  "file": "C:\\Users\\007\\Downloads\\Rust_Project\\hello_world\\main.cpp",
+  "output": "CMakeFiles\\HELLO_WORLD.dir\\main.cpp.obj"
+}
+]
